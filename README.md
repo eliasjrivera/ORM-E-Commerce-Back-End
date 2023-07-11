@@ -44,9 +44,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Badges
 
 ## Visuals
+![](./gif/app.gif)
 
 ## Project Repo-Screencastify
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/ORM-E-Commerce-Back-End)
+
+[Screencastify](https://drive.google.com/file/d/1Gk9etHAX3IkEZB4obnovWBLlUooNCw51/view)
 
 ## Installation
 `npm init`
