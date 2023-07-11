@@ -49,7 +49,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Project Repo-Screencastify
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/ORM-E-Commerce-Back-End)
 
-[Screencastify](https://drive.google.com/file/d/1Gk9etHAX3IkEZB4obnovWBLlUooNCw51/view)
+[Screencastify](https://drive.google.com/file/d/1C2iL931nVVcnU1QjnB3pTGul0cEL_LkX/view)
 
 ## Installation
 `npm init`
