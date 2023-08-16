@@ -4,15 +4,14 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Badges](#badges)
 - [Visuals](#visuals)
-- [Project Repo/Screencastify](#project-repo-screencastify)
+- [Project Repo](#project-repo)
+- [Screencastify](#screencastify)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
 - [Contributing](#contributing)
 - [Authors and Acknowledgement](#authors-and-acknowledgement)
-- [License](#license)
 - [Project Status](#project-status)
 
 ## Description
@@ -41,15 +40,14 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Badges
-
 ## Visuals
 ![](./gif/app.gif)
 
-## Project Repo-Screencastify
+## Project Repo
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/ORM-E-Commerce-Back-End)
 
-[Screencastify](https://drive.google.com/file/d/1C2iL931nVVcnU1QjnB3pTGul0cEL_LkX/view)
+## Screencastify
+[ORM E Commerce Screencastify](https://drive.google.com/file/d/1C2iL931nVVcnU1QjnB3pTGul0cEL_LkX/view)
 
 ## Installation
 `npm init`
@@ -62,19 +60,20 @@ THEN I am able to successfully create, update, and delete data in my database
   
 ## Usage
   
-Run the following command at the root of your project and answer the prompted questions:
+1. Run the following command:
+ `mysql -u root -p`
 
-`mysql -u root -p`
+2. Answer prompts
 
-Enter PW when promted
+3. Enter PW when prompted
 
-`source db/schema.sql`
+4. `source db/schema.sql`
 
-`quit`
+5. `quit`
 
-`npm run seed`
+6. `npm run seed`
   
-`npm start`
+7. `npm start`
 
 ## Support
 Elias Rivera
@@ -82,12 +81,11 @@ Elias Rivera
 eliasjohnrivera@gmail.com
 
 ## Contributing
-Contributors should read the installation section.
+Contributors should read the installation section
 
 ## Authors and Acknowledgement
 Elias Rivera
-## License
 
 ## Project Status
-Project is finished.
+Project is finished
 
