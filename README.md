@@ -60,12 +60,11 @@ THEN I am able to successfully create, update, and delete data in my database
   
 ## Usage
   
-1. Run the following command:
- `mysql -u root -p`
+1. `mysql -u root -p`
 
 2. Answer prompts
 
-3. Enter PW when prompted
+3. Enter password when prompted
 
 4. `source db/schema.sql`
 
